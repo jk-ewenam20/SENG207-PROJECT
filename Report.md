@@ -15,5 +15,13 @@ The graph above is a scatter plot of density against residual sugar.
 
 ### __Scatter Plot of fixed acidity against pH__
 ![Scatter Plot of fixed acidity against pH](./plot3.png)
-* This plot shows a scatter diagram of fixed acidity against the pH of the wine.
-* The scatter plot is most concentrated between 6 and 12 on th fixed acidity axis and between 3.0 and 3.6 on the pH axis
+
+- This plot shows a scatter diagram of fixed acidity against the pH of the wine.
+- The scatter plot is most concentrated between 6 and 12 on th fixed acidity axis and between 3.0 and 3.6 on the pH axis
+---
+
+### Bar Graph of pH values 
+![Bar Graph of pH values](./plot4.png)
+
+- The image above is a graph of the count of pH of the sames value in a bar graph format.
+- Since the dataset is large, the graph only displays for the first 70 rows of the red wine data set. 

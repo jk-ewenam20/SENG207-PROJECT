@@ -1,16 +1,17 @@
 # REPORT ON GRAPHS AND PLOTS
+---
 ### __Scatter Diagram of density against residual sugar__
 ![Scatter Diagram of Density against Residual sugar](./plot2.png)
 
 The graph above is a scatter plot of density against residual sugar. 
 
-
+---
 ### __Plot Diagram of pH__
 ![Plot Diagram of pH](./plot1.png)
 
 - The graph above shows a graph of the dataset with pH as the grouping
 - From the graph, the highest pH count recorded is seen to be around 3.3 with a count above 50.
-
+---
 
 ### __Scatter Plot of fixed acidity against pH__
 ![Scatter Plot of fixed acidity against pH](./plot3.png)
